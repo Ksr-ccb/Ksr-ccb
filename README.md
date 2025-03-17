@@ -1,16 +1,16 @@
-## Hi there 👋
+## 안녕하세요 👋
+개발자 `Ksr-ccb` 입니다~
 
-<!--
-**Ksr-ccb/Ksr-ccb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 I’m currently learning
+2025.02 ~ 내일배움캠프 Spring 6기 수료중
 
-Here are some ideas to get you started:
+# 📃 진행한 프로젝트
+- Sparta-Chapter2 : 계산기 프로젝트
+- Sparta-Kiosk : 키오스크 프로젝트
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🔧주요 사용 기술
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
