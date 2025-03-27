@@ -11,6 +11,7 @@
 ## 📃 진행한 프로젝트
 - Sparta-Chapter2 : 계산기 프로젝트
 - Sparta-Kiosk : 키오스크 프로젝트
+- Sparta-Scheduler : JDBC를 이용한 스케줄러 프로젝트
 <br>
 <br>
 <br>
