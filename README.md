@@ -1,19 +1,4 @@
-### 안녕하세요 👋
-개발자 `Ksr-ccb` 입니다~
-<br>
-<br>
-<br>
-## 🌱 I’m currently learning
-2025.02 ~ 내일배움캠프 Spring 6기 수료중
-<br>
-<br>
-<br>
-## 📃 진행한 프로젝트
-- Sparta-Chapter2 : 계산기 프로젝트
-- Sparta-Kiosk : 키오스크 프로젝트
-- Sparta-Scheduler : JDBC를 이용한 스케줄러 프로젝트
-- Sparta-Scheduler2 : JPA를 이용한 스케줄러 프로젝트
-- postory : 뉴스피드 팀프로젝트## 안녕하세요 👋
+## 안녕하세요 👋
 개발자 `Ksr-ccb` 입니다~
 <br>
 <br>
@@ -45,5 +30,5 @@
 <br>
 <br>
 
-### TIL과 코드카타
-[![TIL과 코드카타](https://github.com/user-attachments/assets/854be3f3-0cd4-4d4d-9a63-d4895905106f)](https://velog.io/@tofha054/posts)
+### TIL
+[![TIL](https://github.com/user-attachments/assets/854be3f3-0cd4-4d4d-9a63-d4895905106f)](https://velog.io/@tofha054/posts)
