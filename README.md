@@ -13,6 +13,24 @@
 - Sparta-Kiosk : 키오스크 프로젝트
 - Sparta-Scheduler : JDBC를 이용한 스케줄러 프로젝트
 - Sparta-Scheduler2 : JPA를 이용한 스케줄러 프로젝트
+- postory : 뉴스피드 팀프로젝트## 안녕하세요 👋
+개발자 `Ksr-ccb` 입니다~
+<br>
+<br>
+<br>
+## 🌱 I’m currently learning
+2025.02 ~ 내일배움캠프 Spring 6기 수료중
+<br>
+<br>
+<br>
+## 📃 진행한 프로젝트
+- Sparta-Chapter2 : 계산기 프로젝트
+- Sparta-Kiosk : 키오스크 프로젝트
+- Sparta-Scheduler : JDBC를 이용한 스케줄러 프로젝트
+- Sparta-Scheduler2 : JPA를 이용한 스케줄러 프로젝트
+- postory : 뉴스피드 팀프로젝트
+- nbc-15-rider : 아웃소싱 팀프로젝트 (배달 어플 백엔드)
+- event-nbc : 이벤트 만들기(동시성 제어 테스트) 팀프로젝트
 <br>
 <br>
 <br>
