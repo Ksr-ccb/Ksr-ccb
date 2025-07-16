@@ -4,7 +4,8 @@
 <br>
 <br>
 ## 🌱 I’m currently learning
-2025.02 ~ 내일배움캠프 Spring 6기 수료중
+2025.02 ~ 2025.07 내일배움캠프 Spring 6기 수료완료
+2025.06 ~ CS25 : AI와 함께하는 CS 문제 매일 구독 서비스 개발 중
 <br>
 <br>
 <br>
